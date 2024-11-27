@@ -15,7 +15,7 @@ DB_NAME
 PORT
 NODE_ENV
 ```
-2. Example .env file:
+2. Example ```.env``` file:
 ```env
 DB_HOST=localhost
 DB_PORT=3306
